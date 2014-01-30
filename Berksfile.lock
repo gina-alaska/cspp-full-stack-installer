@@ -1,17 +1,14 @@
 {
   "sources": {
     "cspp": {
-      "locked_version": "1.5.0",
+      "locked_version": "1.5.5",
       "git": "http://github.com/gina-alaska/cspp-cookbook",
-      "ref": "a375b493ae497854e58857aa65aebe69cdd12184"
+      "ref": "05abdb3c578fdf3fb91834303f6cec1efe82aafd"
     },
     "rtstps": {
       "locked_version": "1.2.0",
       "git": "http://github.com/gina-alaska/rtstps-cookbook",
       "ref": "b3e6a90c7ed11b24f39b68ae304cab21b6f6ce69"
-    },
-    "user": {
-      "locked_version": "0.3.0"
     },
     "java": {
       "locked_version": "1.15.4"

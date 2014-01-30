@@ -5,8 +5,7 @@ run_list "rtstps"
 
 override_attributes({
   rtstps: {
-    cache: "/mnt/satellite",
-    source: "RT-STPS_5.3.tar.gz"
+    cache: "/var/cache/cspp"
   }
 })
 
